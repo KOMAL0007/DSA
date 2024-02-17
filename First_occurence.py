@@ -15,7 +15,6 @@ def binary_search_first_occurrence(arr, key):
             
     return result
 
-# Example usage:
 arr = [3,6,4,8,8,16,13,4,4]
 key = 4
 
